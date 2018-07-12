@@ -18,7 +18,7 @@
         <img class="im" src="../../static/phon.png">
         <span style="margin-left: 20px;font-size: 24px;color: white;">{{phone}}</span>
       </div>
-      <div class="div3" style="margin: 0px 20px">
+      <div class="div3" style="margin: 0 20px">
         <img class="im" src="../../static/wx.png">
         <span style="margin-left: 20px;font-size: 24px;color: white;">{{WeChat}}</span>
       </div>
